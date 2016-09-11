@@ -32,7 +32,7 @@ cd /tmp/anykernel;
 unzip -o "$ZIP";
 
 ui_print "**********************************";
-ui_print "ThugLife Kernel by Akhil";
+ui_print "OrionKernel by Akhil";
 ui_print "**********************************";
 /sbin/busybox mount /system;
 
