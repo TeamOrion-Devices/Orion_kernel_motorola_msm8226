@@ -1,8 +1,8 @@
 VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 42
-THUGVERSION ?= M
-EXTRAVERSION =  -thuglife™-falcon-$(THUGVERSION)
+KERNELVERSION ?= Nutella
+EXTRAVERSION =  -KronicKernel-falcon-$(THUGVERSION)
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
