@@ -1,6 +1,6 @@
 #!/bin/bash
 dir=${PWD}
-cd ${THUGDIR}/falcon
-git push origin master
-git push orion HEAD:6.0.1
+cd ${KERNELDIR}/falcon
+git push origin nougat
+git push orion HEAD:n
 cd ${dir}
