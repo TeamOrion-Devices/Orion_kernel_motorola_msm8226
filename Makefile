@@ -2,7 +2,7 @@ VERSION = 3
 PATCHLEVEL = 4
 SUBLEVEL = 42
 KERNELVERSION ?= Nutella
-EXTRAVERSION =  -KronicKernel-falcon-$(THUGVERSION)
+EXTRAVERSION =  -KronicKernel-falcon-$(KERNELVERSION)
 NAME = Saber-toothed Squirrel
 
 # *DOCUMENTATION*
